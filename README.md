@@ -22,8 +22,9 @@ A Job + Internship Portal REST API built with Node.js, Express, and MongoDB.
 
 ## Installation
 ```bash
-git clone https://github.com/tera-username/hiresync-api
-cd hiresync-api
+git clone https://github.com/dsingh098/hiresync-A-job-intrenship-Portal-API.git
+
+cd hiresync-A-job-intrenship-Portal-API.git
 npm install
 ```
 
